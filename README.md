@@ -35,4 +35,12 @@ Final Mode : Random forest
 Accuracy : 98.83%
 
 Screenshots
+
+
+
 <img width="490" height="673" alt="image" src="https://github.com/user-attachments/assets/78096f1d-2e67-481f-876e-699c65d6f2d5" />
+
+
+Author
+
+Ishmirti Acharya Email ishmirtiacharya@gmail.com
